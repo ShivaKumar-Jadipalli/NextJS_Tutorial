@@ -7,3 +7,8 @@ I know most of you will not have a problem until lesson 5, The only problem migh
 
 If you are unable to move past lesson 6 use the file `SQL_Script.sql` ![How to add this script in vercel](Vercel_Data_sample.png)
  and paste it in run query mode in vercel postgres instance, This will create a database with manual code and you can skip lesson 6 and move to the next one if this doesn't work and you still have problem I would suggest to delete that postgres instance completely and create a new one as your previous queries and uploads might cause conflicts 
+
+
+Notes : 
+1. Skipped lesson 10 because when I add that it is showing you should have latest next js version besides the documentation itself stating that it is still in experimental stage so I don't want to worry about that topic right now as most of the features are already working fine so skipping that lesson 10 
+2. In lesson 11 the debounce method is not working for me because of react js version mis-match 
