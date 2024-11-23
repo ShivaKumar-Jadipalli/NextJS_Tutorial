@@ -13,3 +13,5 @@ Notes :
 1. Skipped lesson 10 because when I add that it is showing you should have latest next js version besides the documentation itself stating that it is still in experimental stage so I don't want to worry about that topic right now as most of the features are already working fine so skipping that lesson 10 
 2. In lesson 11 the debounce method is not working for me because of react js version mis-match 
 3. In lesson 13 uncomment this line " throw new Error("Failed to Delete Invoice"); " in "app/lib/actions.ts" and run it like it shows how error is shown 
+4. Skipping lesson 14 cause it is only of improving accessability so I think I cannot spend more time on it now 
+5. Lesson 15 this authentications works differently in production and local so check that once while uploading it in production 
